@@ -24,10 +24,12 @@ AWS compliance and assurance
 Four layers of compliance and assurance
 
 layer 1: AWS config set up the standard compliance rules, collect the aggregated account config data, update the AWS security hub, control torwe, and backup 
-layer 2: Sydtem manager do the image and patch management, pre-built the image for the VM/container
-Layer 3: AWS auditing Manager integrate with cloudtrail, provided pre-built automatic generated compliance reports for auditing
-layer 4: confirmation guard provide the guardrail for the code check before the resource provision. 
 
+layer 2: Sydtem manager do the image and patch management, pre-built the image for the VM/container
+
+Layer 3: AWS auditing Manager integrate with cloudtrail, provided pre-built automatic generated compliance reports for auditing
+
+layer 4: confirmation guard provide the guardrail for the code check before the resource provision. 
 
 Best Practice of the security design
 
